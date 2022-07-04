@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Roboto:wght@400;500&display=swap');
+
+body{
+    font-family: 'Inter';
+    background-color: #ffffff;
+    padding:20px;
+}
+
+.header-image{
+    border-radius: 50%;
+}
+
+.Home{
+    color: #D1884F;
+}
+
+header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.About-me{
+    margin: 0 40px;
+}
+.menu-item{
+    font-size:24px;
+}
+.invitation{
+    font-size:32px;
+    color:#3BBADB;
+
+}
+.introduction{
+    color: #018DB0;
+    font-size:67px;
+}
+.My-details{
+    font-size: 24px;
+    font-weight:500;
+}
+.Profession{
+color:#D1884F;
+}
+
+.Hire-me{
+    background-color: #008AAA;
+    color:#ffffff;
+    border:none;
+    width:150px;
+    padding:10px 20px;
+    border-radius:3px;
+   }
+   .My-project{
+    background-color: #ffffff;
+    color:#008AAA;
+    border:none;
+    width:150px;
+    padding:8px 20px;
+    border: 2px solid;
+   }
